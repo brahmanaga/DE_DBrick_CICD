@@ -22,4 +22,4 @@ steps:
 
 - script: |
     pytest
-  displayName: Run Tests
+  displayName: Run Tests and Roronoa Zoro
